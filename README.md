@@ -29,7 +29,7 @@
 </p>
 <br>
 <h2>           📝 ~ 𝒄𝒐𝒏𝒕𝒂𝒕𝒐 ~ 📝</h2>
-<img src="https://imgur.com/7wsMvC8" align="right" width="373.5px" height="208.5px">
+<img src="https://i.imgur.com/sWxg0Tt.gif" align="right" width="373.5px" height="208.5px">
 <br>
 
 <p align="center"><a href="https://twitter.com/OiFelps" target="_blank"><img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/Felps#3354" target="_blank"><img src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
