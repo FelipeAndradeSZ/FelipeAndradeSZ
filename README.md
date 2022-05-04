@@ -2,7 +2,7 @@
 <h1 align="center">~ 💖 𝒃𝒆𝒎 𝒗𝒊𝒏𝒅𝒐 𝒂𝒐 𝒎𝒆𝒖 𝒑𝒆𝒓𝒇𝒊𝒍 💖 ~</h1>
 <br>
 <div align="center">
-<img src="https://imgur.com/Vo3zKzL">
+<img src="https://i.imgur.com/Vo3zKzL.gif">
 </div>
 <br>
 <div>
