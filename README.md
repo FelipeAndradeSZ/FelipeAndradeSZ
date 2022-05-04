@@ -34,7 +34,7 @@
 <div>
 <h2 align="center">💖 ~ 𝒐𝒃𝒓𝒊𝒈𝒂𝒅𝒐 𝒑𝒐𝒓 𝒍𝒆𝒓 ~ 💖</h2>
 <div align="center">
-<img src="https://imgur.com/LEvFNFN">
+<img src="https://i.imgur.com/LEvFNFN.gif">
 </div>
 <hr>
 </div>
