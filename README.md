@@ -2,7 +2,7 @@
 <h1 align="center">~ 💖 𝒃𝒆𝒎 𝒗𝒊𝒏𝒅𝒐 𝒂𝒐 𝒎𝒆𝒖 𝒑𝒆𝒓𝒇𝒊𝒍 💖 ~</h1>
 <br>
 <div align="center">
-<img src="https://i.imgur.com/jx17oHT.gif">
+<img src="https://imgur.com/Vo3zKzL">
 </div>
 <br>
 <div>
@@ -34,7 +34,7 @@
 <div>
 <h2 align="center">💖 ~ 𝒐𝒃𝒓𝒊𝒈𝒂𝒅𝒐 𝒑𝒐𝒓 𝒍𝒆𝒓 ~ 💖</h2>
 <div align="center">
-<img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
+<img src="https://imgur.com/LEvFNFN">
 </div>
 <hr>
 </div>
