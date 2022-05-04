@@ -12,7 +12,7 @@
 <b>Nome:</b> Felipe</li>
 
 <li>
-<b>Hobby:</b> Jogar -///-
+<b>Hobby:</b> Jogar, assistir animes, programar e estudar.
 </li>
 <br>
 
